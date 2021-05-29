@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "howler": "^2.2.1",
+    "vue-fuse": "^3.0.0",
+    "vue-google-oauth": "^1.0.5",
+    "vue-howler": "^0.7.0"
+  }
+}
