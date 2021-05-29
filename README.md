@@ -9,9 +9,9 @@ This repository holds all of your submitted work for CompSci 290 Spring 2021
 
 Start Date: Sunday, Jan 31
 
-Finish Date: Wednesday Feb 17
+Finish Date: Saturday, May 1 
 
-Hours Spent: Probably ~20 hours
+Hours Spent: Probably ~50 hours
 
 
 ### Collaboration
@@ -21,16 +21,9 @@ People consulted:
 Resources used: 
 https://publicdomainvectors.org/en/free-clipart/Apollo-in-marble-statue/82147.html
 
-
-
 Asset attributions:
 
 
-### Assignment Notes
+### Scope
 
-Known Bugs:
-
-Extra credit:
-
-
-### Impressions
+Code for other pages was locked in my school's gitlab, but you're not missing much tbh.
